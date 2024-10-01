@@ -1,4 +1,4 @@
-# Autocrattic WordPress Plugin
+# Autocrattic plugin for WordPress
 
 ![Autocrattic Version](https://img.shields.io/badge/Version-1.3-green.svg)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
